@@ -1,0 +1,39 @@
+.menu1 {
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    background-color: black;
+    width: 100%;
+    z-index: 10;
+    cursor: pointer;
+}
+.links {
+    display: inline-block;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Zen Loop', cursive;
+}
+#gif {
+    width: 100%;
+    margin-top: 35px;
+}
+.img {
+    width: 500px;
+    height: 330px;
+}
+body {
+    text-align: center;
+    font-family: 'Zen Loop', cursive;
+}
+.h {
+    font-family: 'Zen Loop', cursive;
+    font-size: 40px;
+}
+.carousel-caption {
+    font-family: 'Zen Loop', cursive;
+    font-size: 45px;
+}
